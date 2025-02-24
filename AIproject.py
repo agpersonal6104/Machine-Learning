@@ -1,11 +1,4 @@
 def question_answer_system(knowledge_base):
-    """
-    A simple question-answering system using a provided knowledge base.
-
-    Args:
-        knowledge_base: A dictionary where keys are topics and values are dictionaries
-                        containing question-answer pairs.
-    """
     while True:
         topic = input("Enter a topic (or 'exit' to quit): ").lower()
         if topic == "exit":
