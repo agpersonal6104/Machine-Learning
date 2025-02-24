@@ -43,6 +43,14 @@ knowledge_base = {
     "general":{
         "what is the capital of France?": "The capital of France is Paris.",
         "what is photosynthesis?": "Photosynthesis is the process by which plants convert light energy into chemical energy."
+    },
+    "marvel": {
+        "who is iron man?": "Iron Man is Tony Stark, a billionaire industrialist and genius inventor.",
+        "who is captain america?": "Captain America is Steve Rogers, a super-soldier who fought in World War II.",
+        "who is thor?": "Thor is the Norse God of Thunder, wielding the magical hammer Mjolnir.",
+        "who is black widow?": "Black Widow is Natasha Romanoff, a highly skilled spy and assassin.",
+        "who is hulk?": "Hulk is Bruce Banner, a scientist who transforms into a powerful green monster when angry.",
+        "who are the avengers?": "The Avengers are a team of superheroes assembled to protect the world from threats."
     }
 }
 
